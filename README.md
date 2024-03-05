@@ -1,2 +1,10 @@
-# anotacoes-python1
-Minhas anotações sobre Python.
+## 📣 Hey!!
+
+---
+
+### Este repositório conterá minhas anotações dos conhecimentos obtidos sobre Python através da plataforma Descomplica.
+
+---
+
+#### PRIMEIROS PASSOS
+
