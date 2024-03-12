@@ -1,4 +1,4 @@
-## 📣 Hey!!
+ ## 📣 Hey!!
 
 ---
 
@@ -23,3 +23,14 @@ Sites, lojas virtuais, sistemas que funcionem no padrão SAAS (Software As A Ser
 Sistemas de automação residencial e/ou industrial;
 Softwares embarcados, ou seja, aplicações que interajam diretamente com o hardware - os sistemas de automação são um bom exemplo disso;
 Aplicativos Mobile (embora não seja a linguagem mais adequada para isso e, portanto, requeira alguns frameworks e camadas adicionais para funcionar da maneira esperada).
+
+---
+
+### Instalação e configuração do ambiente
+
+Para se utilizar o Python em uma máquina local, é necessário preparar o ambiente de trabalho; isso consiste em seguir alguns passos:
+
+Instalar o Python localmente em seu computador
+Instalar uma IDE (Integrated Development Environment)
+Configurar a IDE para reconhecer a sintaxe do Python e executá-la
+Para fins didáticos, utilizaremos o ambiente com o Sistema Operacional (S.O.) Windows na versão 10, mas a mesma lógica se aplica a outras versões do SO ou ainda outros Sistemas Operacionais como Linux, Mac, Solaris, etc.
