@@ -40,3 +40,13 @@ Para fins didáticos, utilizaremos o ambiente com o Sistema Operacional (S.O.) W
 ### Fazendo o download do Python
 
 Você deverá acessar o site oficial, https://www.python.org, e acessar a guia de downloads. Recomendo que você verifique a versão atual e procure sempre instalar a versão “stable” (estável). Como a linguagem está em constante atualização, novas funções, recursos, bibliotecas, patches de segurança e outras manutenções, são adicionadas periodicamente.
+
+---
+
+Recomendo sempre que você utilize uma versão estável, ou seja, que já tenha sido validada e passado no “crivo” dos desenvolvedores, resolvendo todos os problemas (ou a maioria, ao menos) que aquela versão tenha.
+
+Escolher uma versão em desenvolvimento, ainda que ela ofereça algumas vantagens como novos recursos e até mesmo a resolução de erros de versões anteriores, é um passo arriscado, uma vez que a versão em desenvolvimento pode gerar uma série de incompatibilidades que acabarão sendo mais danosas que o uso de uma versão com menos recursos. Em suma: use sempre a versão estável se quiser diminuir a dor de cabeça!
+
+---
+
+
