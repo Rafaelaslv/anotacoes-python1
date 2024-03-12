@@ -34,3 +34,9 @@ Instalar o Python localmente em seu computador
 Instalar uma IDE (Integrated Development Environment)
 Configurar a IDE para reconhecer a sintaxe do Python e executá-la
 Para fins didáticos, utilizaremos o ambiente com o Sistema Operacional (S.O.) Windows na versão 10, mas a mesma lógica se aplica a outras versões do SO ou ainda outros Sistemas Operacionais como Linux, Mac, Solaris, etc.
+
+---
+
+### Fazendo o download do Python
+
+Você deverá acessar o site oficial, https://www.python.org, e acessar a guia de downloads. Recomendo que você verifique a versão atual e procure sempre instalar a versão “stable” (estável). Como a linguagem está em constante atualização, novas funções, recursos, bibliotecas, patches de segurança e outras manutenções, são adicionadas periodicamente.
