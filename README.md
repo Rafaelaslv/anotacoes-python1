@@ -49,4 +49,26 @@ Escolher uma versão em desenvolvimento, ainda que ela ofereça algumas vantagen
 
 ---
 
+Para confirmar se a instalação ocorreu da forma esperada, você pode acessar o seu prompt de comando (Iniciar > Executar > [digite CMD e pressione ENTER]) e digitar o seguinte comando: py –version
+
+---
+
+### Instalando uma IDE
+
+O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code), que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
+
+O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code), que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
+
+Para instalar o VSCode, acesse https://code.visualstudio.com/ e clique no botão de download. A instalação é bastante trivial e, de forma similar ao Python, você precisará apenas ir avançando as etapas até a finalização.
+
+Atente apenas ao peso do programa, pois o VSCode, embora seja mais leve que outras IDE’s, requer uma configuração mínima para que funcione de maneira adequada. Essas exigências podem ser verificadas no site oficial do software, no seguinte link: https://code.visualstudio.com/docs/supporting/requirements. 
+
+Para analisar se a instalação do VSCode funcionou corretamente, basta abrir a aplicação em seu SO. Se o programa abrir corretamente então a instalação funcionou e você poderá partir para a configuração das extensões necessárias para iniciar a programação com Python.
+
+---
+
+### Instalando as extensões
+
+Uma extensão é um recurso extra, não-nativo, de uma aplicação. Por padrão, a IDE não saberá que sua intenção é trabalhar com Python a menos que você a informe disso; o primeiro passo é “avisá-la” que ela precisa compreender a linguagem Python e sua sintaxe.
+
 
