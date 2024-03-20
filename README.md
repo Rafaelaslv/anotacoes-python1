@@ -71,4 +71,22 @@ Para analisar se a instalação do VSCode funcionou corretamente, basta abrir a 
 
 Uma extensão é um recurso extra, não-nativo, de uma aplicação. Por padrão, a IDE não saberá que sua intenção é trabalhar com Python a menos que você a informe disso; o primeiro passo é “avisá-la” que ela precisa compreender a linguagem Python e sua sintaxe.
 
+---
+
+### Entendendo a arquitetura do Python
+
+O Python é uma linguagem fracamente tipada (tipagem dinâmica) e interpretada. Esses dois termos se referem à forma como a linguagem é lida pelo processador (ou interpretador) de uma máquina. A “tipagem” se refere aos tipos de dados que uma variável pode assumir; já o termo “interpretada”, significa que a linguagem, via de regra, será executada por uma aplicação que interprete o código - motivo pelo qual ela tende a ser mais rápida que outras linguagens, ao menos com processos triviais que não requeiram loops altos.
+
+---
+
+### Explorando as variáveis
+
+---
+
+### Explorando as constantes
+
+---
+
+### Regras básicas de variáveis
+
 
