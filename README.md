@@ -83,6 +83,14 @@ O Python é uma linguagem fracamente tipada (tipagem dinâmica) e interpretada. 
 
 Variáveis, em programação, nada mais são que espaços na memória que podem ou não alocar determinados valores. Este “ou não”, refere-se a linguagens de tipagem forte, como o C, por exemplo. Ao se trabalhar com uma linguagem fortemente tipada, é necessário informar à memória que uma determinada variável terá um tipo específico (texto, número inteiro, número decimal, etc). A esse processo dá-se o nome de “declaração de variável”.
 
+Essa declaração de variáveis, faz com que um espaço seja reservado na memória, possibilitando, em momento propício, alocar um dado no espaço reservado. Um detalhe importante sobre linguagens fortemente tipadas como o C, é a restrição de modificação de tipos. Se uma variável foi definida como sendo do tipo “inteiro”, ela será deste tipo até a finalização do programa.
+
+Já com linguagens como o Python, fracamente tipadas, não há necessidade de se reservar um espaço na memória, ou seja, a declaração de variáveis é desnecessária. Por possuir uma tipagem dinâmica, uma mesma variável pode armazenar dados diversos, por exemplo, textos em um momento e números em outro momento, conforme demonstrado a seguir:
+
+valor = “Python”
+
+valor = 10
+
 ---
 
 ### Explorando as constantes
