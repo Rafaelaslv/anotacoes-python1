@@ -81,6 +81,8 @@ O Python é uma linguagem fracamente tipada (tipagem dinâmica) e interpretada. 
 
 ### Explorando as variáveis
 
+Variáveis, em programação, nada mais são que espaços na memória que podem ou não alocar determinados valores. Este “ou não”, refere-se a linguagens de tipagem forte, como o C, por exemplo. Ao se trabalhar com uma linguagem fortemente tipada, é necessário informar à memória que uma determinada variável terá um tipo específico (texto, número inteiro, número decimal, etc). A esse processo dá-se o nome de “declaração de variável”.
+
 ---
 
 ### Explorando as constantes
