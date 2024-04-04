@@ -95,8 +95,17 @@ valor = 10
 
 ### Explorando as constantes
 
+Diferente de outras linguagens, o Python, por ter uma tipagem dinâmica, não utiliza o conceito de constantes, ou seja, ao se determinar uma variável é possível modificar seu valor a qualquer momento. É importante salientar que isso é válido até a versão atual da linguagem e que a qualquer momento essa informação pode ser modificada, caso a comunidade de desenvolvedores lance uma versão que contraponha essa regra.
+
+Caso você opte por determinar uma variável cujo valor NUNCA deva ser alterado, você pode escrevê-la em maiúsculo. Isso não impedirá sua modificação, mas dará um alerta visual a quem estiver manipulando o código, sinalizando que aquela variável é diferente das demais.
+
 ---
 
 ### Regras básicas de variáveis
 
+Basicamente, as variáveis são elementos capazes de armazenar valores e podem ter o nome que você desejar. Algumas regras, entretanto, devem ser respeitas, como:
 
+Variáveis não podem iniciar com números
+Variáveis não podem ter espaço
+Variáveis não podem ter caracteres especiais (!, @, #, $, etc)
+Para nomes de variáveis que contenham, conceitualmente, duas ou mais palavras, utilizamos o conceito de Camel Case, escrevendo as iniciais, a partir da segunda palavra, em maiúsculo, por exemplo, uma variável para armazenar um nome do usuário, poderia ser descrita como: nomeDoUsuario
