@@ -109,3 +109,7 @@ Variáveis não podem iniciar com números
 Variáveis não podem ter espaço
 Variáveis não podem ter caracteres especiais (!, @, #, $, etc)
 Para nomes de variáveis que contenham, conceitualmente, duas ou mais palavras, utilizamos o conceito de Camel Case, escrevendo as iniciais, a partir da segunda palavra, em maiúsculo, por exemplo, uma variável para armazenar um nome do usuário, poderia ser descrita como: nomeDoUsuario
+
+---
+
+Códigos utilizados na disciplina no link a seguir: https://github.com/FaculdadeDescomplica/Python
