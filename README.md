@@ -10,6 +10,8 @@
 
 O Python surgiu na década de 1990 e, embora já seja uma linguagem com bastante maturidade, ela só começou a ganhar notoriedade da década de 2010 em diante - momento em que a Inteligência Artificial (I.A.) começou a se tornar cada vez mais presente nas mais diversas aplicações, sejam elas web, mobile ou desktop.
 
+Como o Python, desde sua concepção já trazia uma estrutura robusta voltada à I.A. e aprendizado de máquina por meio de bibliotecas específicas, a linguagem acabou por atender perfeitamente às necessidades de programadores que precisavam desenvolver aplicações inteligentes.
+
 A linguagem é muito conhecida também por sua velocidade de execução - principalmente quando processada em ambiente local.
 
 ---
