@@ -57,7 +57,7 @@ Para confirmar se a instalação ocorreu da forma esperada, você pode acessar o
 
 ### Instalando uma IDE
 
-O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code), que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
+O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code) da Microsoft que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
 
 O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code), que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
 
@@ -116,4 +116,12 @@ Para nomes de variáveis que contenham, conceitualmente, duas ou mais palavras, 
 
 Códigos utilizados na disciplina no link a seguir: https://github.com/FaculdadeDescomplica/Python
 
-#Um Framework é formado por um conjunto classes implementadas em uma determinada linguagem de programação, que fornece recursos comuns já prontos, validados e testados, os quais podem ser usados para auxiliar o desenvolvimento de software, viabilizando maior eficiência na resolução dos problemas, otimização de recursos, e detecção de erros.#
+---
+
+Um Framework é formado por um conjunto classes implementadas em uma determinada linguagem de programação, que fornece recursos comuns já prontos, validados e testados, os quais podem ser usados para auxiliar o desenvolvimento de software, viabilizando maior eficiência na resolução dos problemas, otimização de recursos, e detecção de erros.
+
+---
+
+Quando for criar um arquivo, sempre colocar .py no final (teste.py)
+
+---
