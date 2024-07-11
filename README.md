@@ -127,3 +127,8 @@ Um Framework é formado por um conjunto classes implementadas em uma determinada
 Quando for criar um arquivo, sempre colocar .py no final (teste.py)
 
 ---
+
+IDE (AMBIENTE INTEGRADO DE DESENVOLVIMENTO)
+
+---
+
