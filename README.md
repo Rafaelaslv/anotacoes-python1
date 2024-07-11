@@ -132,3 +132,10 @@ IDE (AMBIENTE INTEGRADO DE DESENVOLVIMENTO)
 
 ---
 
+Entenda que uma variável é uma “caixa vazia e pequena” na qual pode-se armazenar o que quiser, porém, devido ao seu tamanho, só é possível armazenar uma informação de cada vez, logo, se um valor diferente for armazenado em uma variável, o valor anterior será perdido conforme você pode verificar a seguir:
+
+idade = 20
+
+idade = 30
+
+---
