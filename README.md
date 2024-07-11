@@ -49,6 +49,8 @@ Recomendo sempre que você utilize uma versão estável, ou seja, que já tenha 
 
 Escolher uma versão em desenvolvimento, ainda que ela ofereça algumas vantagens como novos recursos e até mesmo a resolução de erros de versões anteriores, é um passo arriscado, uma vez que a versão em desenvolvimento pode gerar uma série de incompatibilidades que acabarão sendo mais danosas que o uso de uma versão com menos recursos. Em suma: use sempre a versão estável se quiser diminuir a dor de cabeça!
 
+Ao fazer o download do Python, o processo de instalação é bem simples, mas atente para deixar assinalada a opção de “adicionar python.exe ao Path do sistema” conforme demonstra a Figura 1.
+
 ---
 
 Para confirmar se a instalação ocorreu da forma esperada, você pode acessar o seu prompt de comando (Iniciar > Executar > [digite CMD e pressione ENTER]) e digitar o seguinte comando: py –version
