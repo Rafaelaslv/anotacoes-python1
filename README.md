@@ -115,3 +115,5 @@ Para nomes de variáveis que contenham, conceitualmente, duas ou mais palavras, 
 ---
 
 Códigos utilizados na disciplina no link a seguir: https://github.com/FaculdadeDescomplica/Python
+
+#Um Framework é formado por um conjunto classes implementadas em uma determinada linguagem de programação, que fornece recursos comuns já prontos, validados e testados, os quais podem ser usados para auxiliar o desenvolvimento de software, viabilizando maior eficiência na resolução dos problemas, otimização de recursos, e detecção de erros.#
