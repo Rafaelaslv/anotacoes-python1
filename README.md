@@ -130,6 +130,15 @@ Para nomes de variáveis que contenham, conceitualmente, duas ou mais palavras, 
 
 ---
 
+Um comentário dentro da programação é o fato de você deixar um trecho dentro do código, ams aquele código não será lido (executado).
+Para lembrar como você resolveu aquele problema, por exemplo.
+
+Basta colocar uma cerquilha (#) no começo de cada linha.
+
+Mas caso você tenha várias linhas para comentar, basta selecionar o código inteiro e clicar no CTRL + ;
+
+---
+
 Acessando a documentação oficial você obtém respostas diretamente da fonte e consegue esclarecer as principais dúvidas sobre sintaxe, semântica, estruturas, funções, etc.
 
 A documentação oficial do Python fica disponível no seguinte link: https://www.python.org e a parte legal: é gratuita e você pode acessar de qualquer lugar.
