@@ -59,6 +59,8 @@ Para confirmar se a instalação ocorreu da forma esperada, você pode acessar o
 
 ### Instalando uma IDE
 
+(IDE - AMBIENTE INTEGRADO DE DESENVOLVIMENTO)
+
 O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code) da Microsoft que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
 
 O próximo passo é instalar a IDE que será seu ambiente de desenvolvimento. Você pode optar pela IDE de sua preferência, mas recomendo utilizar o VSCode (Visual Studio Code), que possui, além da integração com o Python mediante configuração, uma vastidão de extensões que auxiliarão ainda mais o processo de programação de suas aplicações.
@@ -71,9 +73,15 @@ Para analisar se a instalação do VSCode funcionou corretamente, basta abrir a 
 
 ---
 
+Um Framework é formado por um conjunto classes implementadas em uma determinada linguagem de programação, que fornece recursos comuns já prontos, validados e testados, os quais podem ser usados para auxiliar o desenvolvimento de software, viabilizando maior eficiência na resolução dos problemas, otimização de recursos, e detecção de erros.
+
+---
+
 ### Instalando as extensões
 
 Uma extensão é um recurso extra, não-nativo, de uma aplicação. Por padrão, a IDE não saberá que sua intenção é trabalhar com Python a menos que você a informe disso; o primeiro passo é “avisá-la” que ela precisa compreender a linguagem Python e sua sintaxe.
+
+Quando for criar um arquivo, sempre colocar .py no final (teste.py)
 
 ---
 
@@ -116,26 +124,8 @@ Para nomes de variáveis que contenham, conceitualmente, duas ou mais palavras, 
 
 ---
 
+Acessando a documentação oficial você obtém respostas diretamente da fonte e consegue esclarecer as principais dúvidas sobre sintaxe, semântica, estruturas, funções, etc.
+
+A documentação oficial do Python fica disponível no seguinte link: https://www.python.org e a parte legal: é gratuita e você pode acessar de qualquer lugar.
+
 Códigos utilizados na disciplina no link a seguir: https://github.com/FaculdadeDescomplica/Python
-
----
-
-Um Framework é formado por um conjunto classes implementadas em uma determinada linguagem de programação, que fornece recursos comuns já prontos, validados e testados, os quais podem ser usados para auxiliar o desenvolvimento de software, viabilizando maior eficiência na resolução dos problemas, otimização de recursos, e detecção de erros.
-
----
-
-Quando for criar um arquivo, sempre colocar .py no final (teste.py)
-
----
-
-IDE (AMBIENTE INTEGRADO DE DESENVOLVIMENTO)
-
----
-
-Entenda que uma variável é uma “caixa vazia e pequena” na qual pode-se armazenar o que quiser, porém, devido ao seu tamanho, só é possível armazenar uma informação de cada vez, logo, se um valor diferente for armazenado em uma variável, o valor anterior será perdido conforme você pode verificar a seguir:
-
-idade = 20
-
-idade = 30
-
----
